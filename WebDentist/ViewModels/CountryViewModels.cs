@@ -15,5 +15,7 @@ namespace WebDentist.ViewModels
     {
         public string Name { get; set; }
         public string FlagImage { get; set; }
+        public string Image { get; set; }
+
     }
 }
